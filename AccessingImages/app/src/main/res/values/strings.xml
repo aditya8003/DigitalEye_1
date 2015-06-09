@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessingImages</string>
+    <string name="hello">Hello world!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_data">Get data</string>
+</resources>
